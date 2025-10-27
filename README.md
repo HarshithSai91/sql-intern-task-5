@@ -1,9 +1,6 @@
 # sql-intern-task-5
 Practicing SQL Joins (INNER, LEFT, RIGHT, FULL).
 
-# Task 5 - SQL Developer Internship
-**Domain:** Library Management System
-
 ## Files
 - `Day_5.sql` — SQL script with queries for `INNER`, `LEFT`, `RIGHT`, and `FULL` Joins.
 
